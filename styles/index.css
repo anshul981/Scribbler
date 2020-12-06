@@ -1,0 +1,9 @@
+#allPosts{
+    background-color:#ECBD2E;
+    color: black;
+}
+.centerBlock{
+    position:fixed;
+    top: 50%;
+    left: 45%;
+}

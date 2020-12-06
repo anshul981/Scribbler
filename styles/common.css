@@ -1,0 +1,23 @@
+body{
+    background: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1280px 700px;
+}
+#logo{
+    font-family: 'Montez', cursive;
+    color: blue;
+    font-size: 44px;
+}
+#subHeader{
+    font-weight: bold;
+}
+#signUp{
+    background-color: blue;
+    color: aliceblue;
+
+}
+#signFooter{
+    padding: 8px;
+    text-align: center;
+}
+
